@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AMApplicationBuild</key>
+	<string>381</string>
+	<key>AMApplicationVersion</key>
+	<string>2.4</string>
+	<key>AMDocumentVersion</key>
+	<string>2</string>
+	<key>actions</key>
+	<array>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<true/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.event-kit.event</string>
+						<string>com.apple.event-kit.reminder</string>
+						<string>com.apple.event-kit.calendar</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>3.0.1</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Calendar</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>itemType</key>
+					<dict/>
+					<key>predicate</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.event-kit.event</string>
+						<string>com.apple.event-kit.reminder</string>
+						<string>com.apple.event-kit.calendar</string>
+					</array>
+				</dict>
+				<key>AMRequiredResources</key>
+				<array/>
+				<key>AMSelectedInputType</key>
+				<string>com.apple.event-kit.event</string>
+				<key>AMSelectedOutputType</key>
+				<string>com.apple.event-kit.event</string>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Find Calendar Items 2.action</string>
+				<key>ActionName</key>
+				<string>Find Calendar Events</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>itemType</key>
+					<string>com.apple.event-kit.event</string>
+					<key>predicate</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUGeHlYJHZlcnNpb25Y
+					JG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGG
+					oK8QGgcIDxQcJicpMTU6O0BESk9WDFdbYGZn
+					bHFzVSRudWxs0wkKCwwNDl8QF05TQ29tcG91
+					bmRQcmVkaWNhdGVUeXBlXxAPTlNTdWJwcmVk
+					aWNhdGVzViRjbGFzcxABgAKAGdIQCxETWk5T
+					Lm9iamVjdHOhEoADgBjUCxUWFxgZGhtfEBFO
+					U1JpZ2h0RXhwcmVzc2lvbl8QEE5TTGVmdEV4
+					cHJlc3Npb25fEBNOU1ByZWRpY2F0ZU9wZXJh
+					dG9ygBeADoAEgBTVHR4fIAshIiMkJVlOU09w
+					ZXJhbmReTlNTZWxlY3Rvck5hbWVfEBBOU0V4
+					cHJlc3Npb25UeXBlW05TQXJndW1lbnRzgAaA
+					BRADgAiADVx2YWx1ZUZvcktleTrSHwsMKIAH
+					0iorLC1aJGNsYXNzbmFtZVgkY2xhc3Nlc18Q
+					EE5TU2VsZkV4cHJlc3Npb26jLi8wXxAQTlNT
+					ZWxmRXhwcmVzc2lvblxOU0V4cHJlc3Npb25Y
+					TlNPYmplY3TSEAsyNKEzgAmADNMLHzY3ODlZ
+					TlNLZXlQYXRogAsQCoAKWXN0YXJ0RGF0ZdIq
+					Kzw9XxAcTlNLZXlQYXRoU3BlY2lmaWVyRXhw
+					cmVzc2lvbqM+PzBfEBxOU0tleVBhdGhTcGVj
+					aWZpZXJFeHByZXNzaW9uXE5TRXhwcmVzc2lv
+					btIqK0FCXk5TTXV0YWJsZUFycmF5o0FDMFdO
+					U0FycmF50iorRUZfEBNOU0tleVBhdGhFeHBy
+					ZXNzaW9upEdISTBfEBNOU0tleVBhdGhFeHBy
+					ZXNzaW9uXxAUTlNGdW5jdGlvbkV4cHJlc3Np
+					b25cTlNFeHByZXNzaW9u00sfC0xNTl8QD05T
+					Q29uc3RhbnRWYWx1ZYAPEACAE9NQEAtRU1VX
+					TlMua2V5c6FSgBChVIARgBJdcHJlZGljYXRl
+					VHlwZdIqK1hZXxATTlNNdXRhYmxlRGljdGlv
+					bmFyeaNYWjBcTlNEaWN0aW9uYXJ50iorXF1f
+					EBlOU0NvbnN0YW50VmFsdWVFeHByZXNzaW9u
+					o15fMF8QGU5TQ29uc3RhbnRWYWx1ZUV4cHJl
+					c3Npb25cTlNFeHByZXNzaW9u1B5hC2JjTWRl
+					Wk5TTW9kaWZpZXJeTlNPcGVyYXRvclR5cGWA
+					FYAWEAtYaXNUb2RheTrSKitoaV8QGU5TQ3Vz
+					dG9tUHJlZGljYXRlT3BlcmF0b3KjamswXxAZ
+					TlNDdXN0b21QcmVkaWNhdGVPcGVyYXRvcl8Q
+					E05TUHJlZGljYXRlT3BlcmF0b3LSKittbl8Q
+					FU5TQ29tcGFyaXNvblByZWRpY2F0ZaNvcDBf
+					EBVOU0NvbXBhcmlzb25QcmVkaWNhdGVbTlNQ
+					cmVkaWNhdGXSKitDcqJDMNIqK3R1XxATTlND
+					b21wb3VuZFByZWRpY2F0ZaN2dzBfEBNOU0Nv
+					bXBvdW5kUHJlZGljYXRlW05TUHJlZGljYXRl
+					XxAPTlNLZXllZEFyY2hpdmVy0Xp7VHJvb3SA
+					AQAIABEAGgAjAC0AMgA3AFQAWgBhAHsAjQCU
+					AJYAmACaAJ8AqgCsAK4AsAC5AM0A4AD2APgA
+					+gD8AP4BCQETASIBNQFBAUMBRQFHAUkBSwFY
+					AV0BXwFkAW8BeAGLAY8BogGvAbgBvQG/AcEB
+					wwHKAdQB1gHYAdoB5AHpAggCDAIrAjgCPQJM
+					AlACWAJdAnMCeAKOAqUCsgK5AssCzQLPAtEC
+					2ALgAuIC5ALmAugC6gL4Av0DEwMXAyQDKQNF
+					A0kDZQNyA3sDhgOVA5cDmQObA6QDqQPFA8kD
+					5QP7BAAEGAQcBDQEQARFBEgETQRjBGcEfQSJ
+					BJsEngSjAAAAAAAAAgEAAAAAAAAAfAAAAAAA
+					AAAAAAAAAAAABKU=
+					</data>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.Find_iCal_Items_2</string>
+				<key>CFBundleVersion</key>
+				<string>3.0.1</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryCalendar</string>
+				</array>
+				<key>Class Name</key>
+				<string>Find_iCal_Items_2</string>
+				<key>InputUUID</key>
+				<string>D3C5B28F-2189-4734-B583-3D9C1FA64357</string>
+				<key>Keywords</key>
+				<array>
+					<string>Calendar</string>
+					<string>Event</string>
+					<string>To Do</string>
+					<string>Reminder</string>
+					<string>Calendar</string>
+					<string>Find</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>6B0EA308-23BB-43BB-8316-D290A1F4FB29</string>
+				<key>UUID</key>
+				<string>3E22AD34-5995-4764-90D9-B2B48E1E2829</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Calendar</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<string>com.apple.event-kit.event</string>
+						<key>name</key>
+						<string>itemType</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+				</dict>
+				<key>isViewVisible</key>
+				<true/>
+				<key>location</key>
+				<string>389.500000:859.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Find Calendar Items 2.action/Contents/Resources/English.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.event-kit.item</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>2.0.1</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Calendar</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>summaryRange</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.cocoa.string</string>
+					</array>
+				</dict>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Event Summary.action</string>
+				<key>ActionName</key>
+				<string>Event Summary</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>summaryRange</key>
+					<integer>0</integer>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Automator.EventSummary</string>
+				<key>CFBundleVersion</key>
+				<string>2.0.1</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<true/>
+				<key>CanShowWhenRun</key>
+				<false/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryCalendar</string>
+				</array>
+				<key>Class Name</key>
+				<string>AMEventSummaryAction</string>
+				<key>InputUUID</key>
+				<string>8F804F8F-8337-415D-8263-F2621519EEFD</string>
+				<key>Keywords</key>
+				<array>
+					<string>Summary</string>
+					<string>Event</string>
+					<string>Calendar</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>3963D259-5F42-49E5-B6D2-99534D9C12B9</string>
+				<key>UUID</key>
+				<string>83F6B90B-01A1-448F-B866-A1D5006A2431</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Calendar</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<integer>0</integer>
+						<key>name</key>
+						<string>summaryRange</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<dict>
+			<key>action</key>
+			<dict>
+				<key>AMAccepts</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Optional</key>
+					<true/>
+					<key>Types</key>
+					<array>
+						<string>com.apple.cocoa.string</string>
+					</array>
+				</dict>
+				<key>AMActionVersion</key>
+				<string>2.0.3</string>
+				<key>AMApplication</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>AMParameterProperties</key>
+				<dict>
+					<key>COMMAND_STRING</key>
+					<dict/>
+					<key>CheckedForUserDefaultShell</key>
+					<dict/>
+					<key>inputMethod</key>
+					<dict/>
+					<key>shell</key>
+					<dict/>
+					<key>source</key>
+					<dict/>
+				</dict>
+				<key>AMProvides</key>
+				<dict>
+					<key>Container</key>
+					<string>List</string>
+					<key>Types</key>
+					<array>
+						<string>com.apple.cocoa.string</string>
+					</array>
+				</dict>
+				<key>ActionBundlePath</key>
+				<string>/System/Library/Automator/Run Shell Script.action</string>
+				<key>ActionName</key>
+				<string>Run Shell Script</string>
+				<key>ActionParameters</key>
+				<dict>
+					<key>COMMAND_STRING</key>
+					<string>#!/bin/sh -u
+mkdir -p ~/Desktop/Recordings/
+while read line one two three four five ; do
+	#echo "$line" &gt;&gt; /temp/test.txt
+	if [ "$line" == "Time:" ]; then
+		#echo "Found a time line! $one $four" &gt;&gt; /temp/test.txt
+		now=$(date "+%I:%M:00 %p")
+		nownozero=$(echo $now | sed 's/^0*//')
+		start=$(date -jf "%r" "$one $two" "+%s")
+		#echo "$start" &gt;&gt; /temp/test.txt
+		end=$(date -jf "%r" "$four $five" "+%s")
+		#echo "$end" &gt;&gt; /temp/test.txt
+		timediff=$(expr $end - $start)
+		#echo "$nownozero $one $two $start $four $five $end $timediff" &gt;&gt; /temp/test.txt
+		if [ "$nownozero" == "$one $two" ]; then
+			#echo "starting now! $now - $one" &gt;&gt; /temp/test.txt
+			startrecording="yes"
+		fi
+	elif [ "$line" == "Notes:" ]; then
+		duration=$one
+	fi
+done
+if [ $startrecording == "yes" ]; then
+	#echo "Starting recording for $timediff" &gt;&gt; /temp/test.txt
+	/usr/local/bin/rec -c 2 ~/Desktop/Recordings/$(date +%Y%m%d%H%M).mp3 trim 0 $timediff
+fi
+</string>
+					<key>CheckedForUserDefaultShell</key>
+					<true/>
+					<key>inputMethod</key>
+					<integer>0</integer>
+					<key>shell</key>
+					<string>/bin/bash</string>
+					<key>source</key>
+					<string></string>
+				</dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.RunShellScript</string>
+				<key>CFBundleVersion</key>
+				<string>2.0.3</string>
+				<key>CanShowSelectedItemsWhenRun</key>
+				<false/>
+				<key>CanShowWhenRun</key>
+				<true/>
+				<key>Category</key>
+				<array>
+					<string>AMCategoryUtilities</string>
+				</array>
+				<key>Class Name</key>
+				<string>RunShellScriptAction</string>
+				<key>InputUUID</key>
+				<string>A28F9554-1061-49B9-A879-1EE7C7E2AD17</string>
+				<key>Keywords</key>
+				<array>
+					<string>Shell</string>
+					<string>Script</string>
+					<string>Command</string>
+					<string>Run</string>
+					<string>Unix</string>
+				</array>
+				<key>OutputUUID</key>
+				<string>57FB8CFB-16FD-48DF-ADEF-B13C790E6B3C</string>
+				<key>UUID</key>
+				<string>1314721A-F11D-445D-8802-B469F01825F9</string>
+				<key>UnlocalizedApplications</key>
+				<array>
+					<string>Automator</string>
+				</array>
+				<key>arguments</key>
+				<dict>
+					<key>0</key>
+					<dict>
+						<key>default value</key>
+						<integer>0</integer>
+						<key>name</key>
+						<string>inputMethod</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>0</string>
+					</dict>
+					<key>1</key>
+					<dict>
+						<key>default value</key>
+						<string></string>
+						<key>name</key>
+						<string>source</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>1</string>
+					</dict>
+					<key>2</key>
+					<dict>
+						<key>default value</key>
+						<false/>
+						<key>name</key>
+						<string>CheckedForUserDefaultShell</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>2</string>
+					</dict>
+					<key>3</key>
+					<dict>
+						<key>default value</key>
+						<string></string>
+						<key>name</key>
+						<string>COMMAND_STRING</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>3</string>
+					</dict>
+					<key>4</key>
+					<dict>
+						<key>default value</key>
+						<string>/bin/sh</string>
+						<key>name</key>
+						<string>shell</string>
+						<key>required</key>
+						<string>0</string>
+						<key>type</key>
+						<string>0</string>
+						<key>uuid</key>
+						<string>4</string>
+					</dict>
+				</dict>
+				<key>isViewVisible</key>
+				<true/>
+				<key>location</key>
+				<string>389.500000:568.000000</string>
+				<key>nibPath</key>
+				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/English.lproj/main.nib</string>
+			</dict>
+			<key>isViewVisible</key>
+			<true/>
+		</dict>
+	</array>
+	<key>connectors</key>
+	<dict>
+		<key>6B440B5D-106C-44E5-9CDC-4A9B75410F4E</key>
+		<dict>
+			<key>from</key>
+			<string>83F6B90B-01A1-448F-B866-A1D5006A2431 - 83F6B90B-01A1-448F-B866-A1D5006A2431</string>
+			<key>to</key>
+			<string>1314721A-F11D-445D-8802-B469F01825F9 - 1314721A-F11D-445D-8802-B469F01825F9</string>
+		</dict>
+		<key>EF1C7D50-EDA2-46D6-8235-270C414F2B9C</key>
+		<dict>
+			<key>from</key>
+			<string>3E22AD34-5995-4764-90D9-B2B48E1E2829 - 3E22AD34-5995-4764-90D9-B2B48E1E2829</string>
+			<key>to</key>
+			<string>83F6B90B-01A1-448F-B866-A1D5006A2431 - 83F6B90B-01A1-448F-B866-A1D5006A2431</string>
+		</dict>
+	</dict>
+	<key>workflowMetaData</key>
+	<dict>
+		<key>workflowTypeIdentifier</key>
+		<string>com.apple.Automator.application</string>
+	</dict>
+</dict>
+</plist>
