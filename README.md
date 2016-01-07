@@ -33,10 +33,15 @@ will be recorded. It is similar to the RecordEvent application except
 that it is designed to be used in conjunction with a LaunchAgent that will
 run it every minute. To setup this application:
 1. Create a folder on your desktop named Recordings
+
 2. Copy the RecordEvents application to the Recordings folder
+
 3. Open your ~/Library/LaunchAgents folder (In Finder select Go, Library, then open LaunchAgents)
+
 4. Copy the com.chucksteel.recordevents.plist file to the LaunchAgents folder
+
 5. Open Terminal (found in Utilities) and run the following command:
+
   launchctl load -w ~/Library/LaunchAgents/com.chucksteel.recordevents.plist
 
 Your Mac will now run the RecordEvents application every minute.
