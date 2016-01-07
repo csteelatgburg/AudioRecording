@@ -21,9 +21,13 @@ Enter the time and click OK for recording to begin.
 
 ## RecordEvent application
 This application is designed to be used in conjunction with iCal.
+
 1. Create an event with a start and end time that you would like to be recorded
+
 2. Set the reminder to open a file
+
 3. Select the RecordEvent application
+
 4. Set the time of the reminder to be at the time of the event
 
 ## Record90Minutes application
