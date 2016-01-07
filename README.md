@@ -6,9 +6,9 @@ Sox must be installed with MP3 support.
 I recommend the following procedure for installing SOX:
 1. Install Homebrew from http://brew.sh/
 2. Install lame via homebrew:
-  brew install lame
+   brew install lame
 3. Install Sox via homebrew:
-  brew install sox
+   brew install sox
 
 The default save location for the recordings is ~/Desktop/Recordings. They are named with the date and time when the recording was started.
 
